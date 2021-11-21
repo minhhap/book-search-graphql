@@ -11,7 +11,7 @@ This app allows users to search and save book searches. The app was built using 
 </div>
 
 ## Deployed URL
-https://minhha-book-search.herokuapp.com/
+https://minhha-graphql-book-search.herokuapp.com/
 
 ## GitHub Repo
-https://github.com/minhhap/book-search# book-search-graphql
+https://github.com/minhhap/book-search-graphql
